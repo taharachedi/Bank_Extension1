@@ -1,0 +1,6 @@
+﻿  Bank_Extension1.cpp
+C:\Users\USER\Desktop\Bank_Extension1\Bank_Extension1\Bank_Extension1.cpp(39,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\USER\Desktop\Bank_Extension1\Bank_Extension1\Bank_Extension1.cpp(389,1): warning C4715: 'Delete_Client_By_Account_Number': not all control paths return a value
+C:\Users\USER\Desktop\Bank_Extension1\Bank_Extension1\Bank_Extension1.cpp(466,1): warning C4715: 'Update_Client_Info_By_Account_Number': not all control paths return a value
+C:\Users\USER\Desktop\Bank_Extension1\Bank_Extension1\Bank_Extension1.cpp(655,1): warning C4715: 'Deposit_Balance_To_Client_By_Account_Number': not all control paths return a value
+  Bank_Extension1.vcxproj -> C:\Users\USER\Desktop\Bank_Extension1\x64\Debug\Bank_Extension1.exe
