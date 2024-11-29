@@ -30,15 +30,6 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 
 ---
 
-## ⚙️ Technologies Used
-
-- **Language**: C++
-- **Programming Paradigm**: Procedural
-- **File Handling**: File I/O for data persistence
-- **Data Structures**: Vectors for dynamic client management
-
----
-
 
 ## ⚙️ How It Works
 
@@ -63,6 +54,16 @@ This C++ project simulates a **Bank Management System** 🏦 that allows the use
 4. **Menu Navigation**:
    - The menu offers easy navigation between operations, including options to add clients, perform transactions and exit the program.
    - Users can also return to previous menus at any point.
+
+---
+
+
+## ⚙️ Technologies Used
+
+- **Language**: C++
+- **Programming Paradigm**: Procedural
+- **File Handling**: File I/O for data persistence
+- **Data Structures**: Vectors for dynamic client management
 
 ---
 
