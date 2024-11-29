@@ -5,9 +5,9 @@
 ---
 
 ## 🌟 Project Overview
-Welcome to the **Bank Management System** - a powerful C++ application for managing client accounts and transactions!🚀
 
----
+This C++ project simulates a **Bank Management System** 🏦 that allows the user (an administrator) to manage client data, such as account numbers, names, phone numbers, PIN codes, and account balances. The system provides functionalities like adding, deleting, updating, and viewing client information. Additionally, it supports financial transactions such as deposits and withdrawals, displays total balances, and ensures secure data persistence by storing all client details and transaction logs in a text file.
+
 
 ## ✨ Features
 
