@@ -54,7 +54,7 @@ Welcome to the **Bank Management System** - a powerful C++ application for manag
    - **Search Clients**: Retrieve a client's information by entering their account number.
    - **View All Clients**: Display a complete list of all client records stored in the system.
    - **Deposit**: Increase a client's balance by depositing funds into their account. Each deposit is recorded with the date, amount, and transaction type.
-   - **Withdraw**: Withdraw funds from a client’s account, ensuring that the balance is sufficient. Withdrawals are recorded in the transaction history.
+   - **Withdraw**: Withdraw funds from a client’s account, ensuring that the balance is sufficient.
 
 3. **File Management**:
    - Client data are stored in `Client.txt`, using delimiters for easy parsing.
