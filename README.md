@@ -5,9 +5,7 @@
 ---
 
 ## 🌟 Project Overview
-
-Welcome to the **Bank Client Management System**, a console-based C++ application that enables administrators to manage client data in a secure and user-friendly environment. With this system, you can easily perform various operations like adding new clients, updating their details, handling deposits and withdrawals, and maintaining a complete transaction history for each client. All data is securely stored in a file (`Client.txt`) to ensure persistence across sessions.
-
+Welcome to the Bank Management System - a powerful C++ application for managing client accounts and transactions!  🚀
 ---
 
 ## ✨ Features
