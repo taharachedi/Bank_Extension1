@@ -20,14 +20,26 @@ Welcome to the **Bank Client Management System**, a console-based C++ applicatio
 - 🗂️ **View All Clients**: Display a comprehensive list of all clients in the system.
 
 ### 💸 Transactions
-- 💰 **Deposit**: Add funds to a client's account, with each deposit recorded in the transaction history.
-- 💸 **Withdraw**: Allow withdrawals from a client’s account, ensuring sufficient funds are available. Each withdrawal is logged in the transaction history.
+- 💰 **Deposit Funds**: Add money to client accounts and log deposits.
+- 💳 **Withdraw Money**: Deduct funds, ensuring sufficient balance.
+- 📊 **View Total Balances**: Show overall bank holdings.
 
-
-### 💾 Data Persistence
-- All client and transaction data is stored in a text file (`Client.txt`), ensuring data persists across multiple sessions and program restarts.
+### 🔒 Data Security
+- **Persistent Storage**: Client data is securely stored in `Client.txt` for future use.
+- **Validation**: Enforce unique account numbers and accurate data entry.
+- **Simple File-Based Database**: Efficiently manage all client and transaction data.
 
 ---
+
+## ⚙️ Technologies Used
+
+- **Language**: C++
+- **Programming Paradigm**: Procedural
+- **File Handling**: File I/O for data persistence
+- **Data Structures**: Vectors for dynamic client management
+
+---
+
 
 ## ⚙️ How It Works
 
