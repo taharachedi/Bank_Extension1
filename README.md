@@ -23,9 +23,6 @@ Welcome to the **Bank Client Management System**, a console-based C++ applicatio
 - 💰 **Deposit**: Add funds to a client's account, with each deposit recorded in the transaction history.
 - 💸 **Withdraw**: Allow withdrawals from a client’s account, ensuring sufficient funds are available. Each withdrawal is logged in the transaction history.
 
-### 📜 Transaction History
-- **Track Deposits & Withdrawals**: View the complete history of transactions for each client, including both deposits and withdrawals.
-- **Easy Access**: Transaction records are stored and can be retrieved efficiently, displaying the transaction type, amount, and date.
 
 ### 💾 Data Persistence
 - All client and transaction data is stored in a text file (`Client.txt`), ensuring data persists across multiple sessions and program restarts.
