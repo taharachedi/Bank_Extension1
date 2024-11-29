@@ -5,7 +5,8 @@
 ---
 
 ## 🌟 Project Overview
-Welcome to the Bank Management System - a powerful C++ application for managing client accounts and transactions!  🚀
+Welcome to the **Bank Management System** - a powerful C++ application for managing client accounts and transactions!🚀
+
 ---
 
 ## ✨ Features
