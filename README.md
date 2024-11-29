@@ -1,4 +1,4 @@
-# 🏦 Bank Client Management System in C++ (Extension_1) 💼
+# 🏦 Bank (Extension_1) 💼
 
 > **A simple console-based application to manage client data with file storage and intuitive operations. 🛠️**
 
