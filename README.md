@@ -44,7 +44,7 @@ Welcome to the **Bank Management System** - a powerful C++ application for manag
 
 ### Core Components
 1. **User Input**:
-   - Administrators interact with a console-based menu to select operations like Add, Update, Delete, Deposit, Withdraw, and View Transaction History.
+   - Administrators interact with a console-based menu to select operations like Add, Update, Delete, Deposit and Withdraw.
    - All user inputs are validated before being processed.
 
 2. **Operations**:
@@ -57,11 +57,11 @@ Welcome to the **Bank Management System** - a powerful C++ application for manag
    - **Withdraw**: Withdraw funds from a client’s account, ensuring that the balance is sufficient. Withdrawals are recorded in the transaction history.
 
 3. **File Management**:
-   - Client data and transaction histories are stored in `Client.txt`, using delimiters for easy parsing.
+   - Client data are stored in `Client.txt`, using delimiters for easy parsing.
    - Efficient file handling ensures data is accurately read, written, and updated in the text file.
 
 4. **Menu Navigation**:
-   - The menu offers easy navigation between operations, including options to add clients, perform transactions, view transaction history, and exit the program.
+   - The menu offers easy navigation between operations, including options to add clients, perform transactions and exit the program.
    - Users can also return to previous menus at any point.
 
 ---
